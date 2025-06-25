@@ -1,0 +1,1 @@
+// hdinsight outputs.tf
